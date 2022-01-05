@@ -5,6 +5,8 @@ body {
 	padding-left: 20%;
 	margin-top: 0px;
 	transition: background-color 0.5s, color 0.5s;
+	color: #4c4c4c;
+	background-color: #fff8e6;
 }
 a {
 	text-decoration: none;
