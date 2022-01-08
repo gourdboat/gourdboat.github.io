@@ -10,14 +10,17 @@ body {
 }
 a {
 	text-decoration: none;
-	color: #279dc2;
+	color: #71b5c7;
 	transition: color 0.1s;
 }
 a:hover {
-	color: #0e4b5e;
+	color: #79a6ae;
+}
+a:active {
+	color: #f85552;
 }
 a:visited {
-	color: #3e115c;
+	color: #478c9e;
 }
 div.button {
 	padding: 10px;
@@ -31,11 +34,12 @@ h1.title {
 	font-size: 400%;
 	font-weight: normal;
 	margin-bottom: 0px;
+	color: #f85552;
 }
 div#pinned {
 	border-style: solid;
 	border-width: 1px;
-	border-color: #AFAFAF;
+	border-color: #4c4c4c;
 	border-radius: 4px;
 	margin-top: 2%;
 	padding-left: 2%;
@@ -118,10 +122,12 @@ hr#endline {
 
 /* dark mode adaptive stuff */
 @media (prefers-color-scheme: dark) {
-	body { background-color: #1c1c1c;
-	color: #e3e3e3; }
-	a:visited { color: #e3ae44; }
-	a:visited:hover { color: #b08735; }
+	body { background-color: #2f383e;
+	color: #c1b79e; }
+	h1.title { color: #da6362; }
+	a { color: #7cb68b; }
+	a:hover { color: #6b9e78; }
+	a:visited { color: #6fa07b; }
 	p.date { color: #8c8c8c; }
-	div#toc { border-color: grey; }
+	div#pinned { border-color: grey; }
 }
