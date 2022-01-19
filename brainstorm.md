@@ -1,8 +1,13 @@
 # gourd boat website
+
 ## hosting
 	- https://gourdboat.github.io/
 	- https://heartwoodcollective.com/gourdboat/
 	- i kinda want to get https://gourdboat.com/ ...
+	- gourdboat.org
+	- gourdboat.ooo
+	- gourd.boats
+	
 
 
 ## site contents
