@@ -127,6 +127,7 @@ hr#endline {
 		padding-right: 4%;
 		padding-left: 4%;
 	}
+	h1.title { font-size: 260%; }
 }
 /* dark mode adaptive stuff */
 @media (prefers-color-scheme: dark) {
