@@ -1,8 +1,8 @@
 body {
 	font-family: "Lato", sans-serif;
 	font-size: 12pt;
-	padding-right: 25%;
-	padding-left: 20%;
+	padding-right: 18%;
+	padding-left: 18%;
 	margin-top: 0px;
 	transition: background-color 0.5s, color 0.5s;
 	color: #4c4c4c;
@@ -30,7 +30,7 @@ div.button {
 	font-size: 120%;
 }
 h1.title {
-	font-family: "Roboto Slab", serif;
+	font-family: "Bitter", serif;
 	font-size: 400%;
 	font-weight: normal;
 	margin-bottom: 0px;
@@ -120,7 +120,14 @@ hr#endline {
 }
 
 
-
+/* mobile */
+@media only screen and (max-device-width: 700px) {
+	body {
+		font-size: 30pt;
+		padding-right: 4%;
+		padding-left: 4%;
+	}
+}
 /* dark mode adaptive stuff */
 @media (prefers-color-scheme: dark) {
 	body { background-color: #2f383e;
