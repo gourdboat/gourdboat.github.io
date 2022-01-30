@@ -84,6 +84,19 @@ hr {
 	margin-top: 15px;
 	margin-bottom:5px;
 }
+p.audio-inline {
+	display: inline-block;
+	margin-left: 20px;
+}
+span {
+	display: block;
+	border-left: 4px solid #f85552;
+	padding: 4px;
+	margin: 12px;
+}
+li {
+	margin-left: 18px;
+}
 
 
 /* mobile */
@@ -94,6 +107,7 @@ hr {
 		padding-left: 4%;
 	}
 	h1.title { font-size: 260%; }
+	li { margin-left: 43px; }
 }
 /* dark mode adaptive stuff */
 @media (prefers-color-scheme: dark) {
