@@ -107,7 +107,6 @@ li {
 		padding-left: 4%;
 	}
 	h1.title { font-size: 260%; }
-	li { margin-left: 43px; }
 }
 /* dark mode adaptive stuff */
 @media (prefers-color-scheme: dark) {
