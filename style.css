@@ -49,11 +49,17 @@ div#pinned {
 	margin-top: 14px;
 }
 h3 {
-	font-size: 200%;
+	font-size: 160%;
 	font-family: "Roboto Slab", serif;
 	font-weight: normal;
 	margin: 0px;
 	text-decoration: overline;
+}
+h2 {
+	font-size: 260%;
+	font-family: "Roboto Slab", serif;
+	font-weight: normal;
+	margin: 0px;
 }
 div.post {
 	margin: 12px;
@@ -84,9 +90,11 @@ hr {
 	margin-top: 15px;
 	margin-bottom:5px;
 }
-p.audio-inline {
+audio {
+	margin-right: 20px;
+}
+.audio-inline {
 	display: inline-block;
-	margin-left: 20px;
 }
 span {
 	display: block;
