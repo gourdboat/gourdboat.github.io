@@ -126,4 +126,5 @@ li {
 	a:visited { color: #6fa07b; }
 	p.date { color: #8c8c8c; }
 	div#pinned { border-color: grey; }
+	span { border-color: #da6362; }
 }
