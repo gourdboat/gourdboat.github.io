@@ -4,7 +4,6 @@ gourdboat site
 html for https://gourdboat.github.io/
 
 up right now:
-	gb.tobincooney.com
 	gourdboat.github.io
 	heartwoodcollective.com/gourdboat (redirect)
 
@@ -20,3 +19,5 @@ about the project
 - where to find the thing
 - music!
 - the making of// behind the scenes quality content
+
+- hopefully doing lots of documentation & behind the scenes on website?
